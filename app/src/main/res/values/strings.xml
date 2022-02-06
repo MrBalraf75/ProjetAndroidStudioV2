@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">V2ProjectMobile</string>
+    <string name="newaccount">Création d\'un compte</string>
+    <string name="login">Se connecter</string>
+    <string name="form">Remplir le formulaire manuellement</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prenom</string>
+    <string name="email">Email</string>
+    <string name="adresse">Adresse</string>
+    <string name="CP">Code postal</string>
+    <string name="ville">ville</string>
+    <string name="CF">Carte de fidelité</string>
 </resources>

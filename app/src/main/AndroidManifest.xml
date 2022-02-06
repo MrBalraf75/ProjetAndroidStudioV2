@@ -10,6 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.V2ProjectMobile">
         <activity
+            android:name=".ShopName"
+            android:exported="false" />
+        <activity
+            android:name=".Formulaire"
+            android:exported="false" />
+        <activity
+            android:name=".QrCode"
+            android:exported="false" />
+        <activity
+            android:name=".AccountDetails"
+            android:exported="false" />
+        <activity
+            android:name=".LoginHome"
+            android:exported="false" />
+        <activity
+            android:name=".Home_Login"
+            android:exported="false" />
+        <activity
+            android:name=".NewAccount"
+            android:exported="false" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
